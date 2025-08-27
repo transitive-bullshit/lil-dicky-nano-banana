@@ -6,9 +6,9 @@
 # Lil Dicky meets Nano Banana <!-- omit from toc -->
 
 <p align="center">
-  <img alt="Original" src="https://raw.githubusercontent.com/transitive-bullshit/lil-dicky-nano-banana/main/main/lil-dicky.jpg" width="45%">
+  <img alt="Original" src="https://raw.githubusercontent.com/transitive-bullshit/lil-dicky-nano-banana/main/media/lil-dicky.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Edited" src="https://raw.githubusercontent.com/transitive-bullshit/lil-dicky-nano-banana/main/main/out-lil-dicky-11.jpg" width="45%">
+  <img alt="Edited" src="https://raw.githubusercontent.com/transitive-bullshit/lil-dicky-nano-banana/main/media/out-lil-dicky-11-opt.jpg" width="45%">
 
 </p>
 
